@@ -1,4 +1,4 @@
 <?php
 
-echo 'this is new file';
+echo 'that is new file';
 ?>
