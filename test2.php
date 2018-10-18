@@ -1,3 +1,3 @@
 <?php
-echo "stash demo";
+echo "the file of staging";
 ?>
