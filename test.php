@@ -1,8 +1,5 @@
 <?php
-echo "hello";
-echo "hii";
-echo "My name is Jatin mittal";
-
+echo "changes from local";
 
 ?>
 
