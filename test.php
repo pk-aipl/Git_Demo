@@ -1,5 +1,5 @@
 <?php
-echo "changes from  remote"
+echo "changes from  remote";
 
 
 ?>
