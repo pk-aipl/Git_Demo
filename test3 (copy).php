@@ -6,7 +6,6 @@
  * and open the template in the editor.
  */
 
-<<<<<<< HEAD
 
 
 
@@ -14,15 +13,4 @@
 echo "test3.php";
 echo "test3.php";
 echo "test3.php";
-=======
-echo "test3.php";
-echo "test3.php";
-echo "test3.php";
-echo "test3.php";
-echo "test3.php";
-echo "test3.php";
-echo "test3.php";
-echo "test3.php";
-
->>>>>>> b4d576e... code
 ?>
