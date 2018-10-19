@@ -15,7 +15,7 @@ class WelcomeHooks extends CI_Controller {
 
         // get the actual output
         $contents = $this->CI->output->get_output();
-
+        echo "staging file";
         // replace the tokens
         $this->CI->load->helper('date');
         $contents = str_replace("[DATETIME]", standard_date(), $contents);
