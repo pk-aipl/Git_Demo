@@ -6,13 +6,6 @@
  * and open the template in the editor.
  */
 
-echo "test3.php";
-echo "test3.php";
-echo "test3.php";
-echo "test3.php";
-echo "test3.php";
-echo "test3.php";
-echo "test3.php";
-echo "test3.php";
+echo "this is changed from master branch";
 
 ?>
