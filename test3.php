@@ -6,6 +6,6 @@
  * and open the template in the editor.
  */
 
-echo "this is changed from master branch";
+echo "welcome";
 
 ?>
