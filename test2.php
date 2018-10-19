@@ -8,9 +8,8 @@ echo "cherry-pick demo";
 echo "cherry-pick demo";
 
 
+
 echo "staging";
-echo "new changed file";
-echo "new changed file";
 echo "new changed file";
 
 echo "hii";

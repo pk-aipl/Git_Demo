@@ -6,27 +6,11 @@
  * and open the template in the editor.
  */
 
-echo "new changes";
-echo "new changes";
-echo "new changes";
-echo "new changes";
-
-
 
 echo "new changes";
 echo "new changes";
 echo "new changes";
 echo "new changes";
-
-
-
-
-echo "new changes";
-echo "new changes";
-echo "new changes";
-echo "new changes";
-
-
 
 
 echo "new changes";
