@@ -17,11 +17,7 @@ echo "new changes";
 echo "test3.php";
 echo "test3.php";
 echo "test3.php";
-=======
-=======
->>>>>>> b4d576e... code
-=======
->>>>>>> b4d576e... code
+
 echo "test3.php";
 echo "test3.php";
 echo "test3.php";
@@ -31,11 +27,4 @@ echo "test3.php";
 echo "test3.php";
 echo "test3.php";
 
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> b4d576e... code
-=======
->>>>>>> b4d576e... code
-=======
->>>>>>> b4d576e... code
 ?>
