@@ -7,12 +7,6 @@
  */
 <<<<<<< Updated upstream
 echo "staging";
-=======
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 
 echo "recent change";
 echo "recent change";
