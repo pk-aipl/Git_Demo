@@ -6,9 +6,10 @@
  * and open the template in the editor.
  */
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+echo "new changes";
+echo "new changes";
+echo "new changes";
+echo "new changes";
 
 
 
