@@ -6,6 +6,7 @@
  * and open the template in the editor.
  */
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 
@@ -30,6 +31,10 @@ echo "test3.php";
 echo "test3.php";
 echo "test3.php";
 echo "staging";
+=======
+echo "welcome";
+
+>>>>>>> b8d0325b9571d3bd1253edeab8b9512dac56ef9b
 
 
 ?>
